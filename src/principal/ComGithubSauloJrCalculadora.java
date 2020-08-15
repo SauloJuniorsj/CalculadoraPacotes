@@ -5,7 +5,8 @@
  */
 package principal;
 
-import Calculadora.*;
+import com.github.SauloJr.Calculadora.*;
+
 
 /**
  *
