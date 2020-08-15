@@ -5,7 +5,7 @@
  */
 package principal;
 
-import com.github.saulojr.calculadora.*;
+import Calculadora.*;
 
 /**
  *
