@@ -9,10 +9,22 @@ import com.github.SauloJr.Calculadora.*;
 
 
 /**
- *
+ *<p>
+ * Teste básico de pacotes
+ * Esse programa tem funções básicas de calculo (Soma, Subtração, Divisão, Multiplicação) 
+ *</p>
+
+ * <blockquote><pre>
+ *      Soma soma = new Soma(2, 3);
+ *      Subtracao sub = new Subtracao(53, 32);
+ *      Multiplicacao mul = new Multiplicacao(3, 21);
+ *      Divisao divv = new Divisao(43, 2);
+ *      divv.div(3, 0);
+ * </pre></blockquote>
+ * 
  * @author Saulo Jr
  */
-public class ComGithubSauloJrCalculadora {
+public class Principal {
 
     /**
      * @param args the command line arguments
